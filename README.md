@@ -230,13 +230,3 @@ public class SmartSearchService
 
 ---
 
-## Features
-
-1. Strongly-typed models** for clean, error-free code.
-2. **MudBlazor UI** for modern components.
-3. **Enter key search** and optional real-time search.
-4. **Handles empty queries and API errors gracefully.**
-5. **Ready to teach students** full-stack search app structure.
-
-
-
