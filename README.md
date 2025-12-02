@@ -3,7 +3,7 @@
 ````markdown
 # Smart Search Frontend (Blazor)
 
-This project is a **Blazor frontend** for the **Smart Search Solution API**.  
+This project is a Blazor frontend for the Smart Search Solution API.  
 It demonstrates a clean, strongly-typed implementation for consuming a backend API that searches across multiple domains like software, web design, plumbing, construction, electrical, and networking.  
 This project is suitable for teaching students Blazor, HTTP services, and MudBlazor UI components.
 
