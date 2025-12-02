@@ -140,7 +140,7 @@ public class SmartSearchService
         try
         {
             return await _http.GetFromJsonAsync<SearchResponse>(
-                $"https://localhost:7046/smartsearch?query={query}"
+                ""
             );
         }
         catch
